@@ -1,3 +1,5 @@
+package com.mycompany.myapp.human;
+
 public class HumanDemo {
     public static void main(String[] args) {
         Human person1 = new Human("Klopenko", "Serhii");

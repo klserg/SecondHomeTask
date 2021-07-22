@@ -1,3 +1,5 @@
+package com.mycompany.myapp.human;
+
 public class Human {
     private String firstName;
     private String lastName;
